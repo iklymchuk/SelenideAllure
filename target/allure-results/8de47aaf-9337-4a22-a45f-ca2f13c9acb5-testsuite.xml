@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1446643954194" stop="1446643963462" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>com.klymchuk.fr.example.tests.WeatherWidgetTest</name>
+    <test-cases>
+        <test-case start="1446643954211" stop="1446643963442" status="passed">
+            <name>weatherShouldBeAboveZeroInSummer</name>
+            <steps>
+                <step start="1446643963180" stop="1446643963435" status="passed">
+                    <name>wetherShouldBe[Weather value is: &lt;13&gt;]</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="4956@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

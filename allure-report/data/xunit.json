@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1446643954211,
+    "stop" : 1446643963442,
+    "duration" : 9231
+  },
+  "testSuites" : [ {
+    "uid" : "168882eb513ecc1c",
+    "name" : "com.klymchuk.fr.example.tests.WeatherWidgetTest",
+    "title" : "Weather widget test",
+    "time" : {
+      "start" : 1446643954211,
+      "stop" : 1446643963442,
+      "duration" : 9231
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "3e3618b78011c00b",
+      "name" : "weatherShouldBeAboveZeroInSummer",
+      "title" : "Weather should be above zero in summer",
+      "time" : {
+        "start" : 1446643954211,
+        "stop" : 1446643963442,
+        "duration" : 9231
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

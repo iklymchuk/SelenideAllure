@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "iklymchuk",
+    "threads" : [ {
+      "title" : "4956@iklymchuk.main(1)",
+      "testCases" : [ {
+        "uid" : "3e3618b78011c00b",
+        "name" : "weatherShouldBeAboveZeroInSummer",
+        "title" : "Weather should be above zero in summer",
+        "time" : {
+          "start" : 1446643954211,
+          "stop" : 1446643963442,
+          "duration" : 9231
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "3e3618b78011c00b",
+  "name" : "weatherShouldBeAboveZeroInSummer",
+  "title" : "Weather should be above zero in summer",
+  "time" : {
+    "start" : 1446643954211,
+    "stop" : 1446643963442,
+    "duration" : 9231
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "168882eb513ecc1c",
+    "name" : "com.klymchuk.fr.example.tests.WeatherWidgetTest",
+    "title" : "Weather widget test"
+  },
+  "steps" : [ {
+    "name" : "wetherShouldBe[Weather value is: <13>]",
+    "title" : "Wether should be [Weather value is: <13>]",
+    "time" : {
+      "start" : 1446643963180,
+      "stop" : 1446643963435,
+      "duration" : 255
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "4956@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "com.klymchuk.fr.example.tests.WeatherWidgetTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}
